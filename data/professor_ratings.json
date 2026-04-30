@@ -1,0 +1,20 @@
+{
+  "CSC 1350": {
+    "current_professors": [
+      { "name": "Felipe Fronchetti", "rating": 4.9, "difficulty": 2.1, "takeAgain": "98%", "tags": ["Amazing Lectures", "Cares for Students"] },
+      { "name": "Daniel Donze", "rating": 4.8, "difficulty": 2.5, "takeAgain": "95%", "tags": ["Clear Grading", "Tech-Savvy"] }
+    ],
+    "past_professors": [
+      { "name": "James Ghawaly", "rating": 4.7, "difficulty": 3.0, "takeAgain": "90%" },
+      { "name": "William Duncan", "rating": 4.2, "difficulty": 3.8, "takeAgain": "75%" }
+    ]
+  },
+  "CSC 3380": {
+    "current_professors": [
+      { "name": "Nash Mahmoud", "rating": 4.9, "difficulty": 3.2, "takeAgain": "96%", "tags": ["Inspirational", "Tough but Fair"] }
+    ],
+    "past_professors": [
+      { "name": "Golden Richard", "rating": 4.8, "difficulty": 4.2, "takeAgain": "88%", "tags": ["Cyber Legend", "Heavy Lab Work"] }
+    ]
+  }
+}
